@@ -34,4 +34,5 @@
 
 ---
 
-✨ "Rotina, repetição e evolução — é assim que eu cresço." ✨
+<p align="center"><b>“O mundo é lindo, são tantas coisas que eu nem sei o que quero ter”</b></p>
+
