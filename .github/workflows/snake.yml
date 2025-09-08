@@ -1,0 +1,29 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # roda todo dia à 00:00 UTC (pode ignorar)
+  workflow_dispatch:      # permite rodar manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Gerar snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: 'migueLLIDO'
+          outputs: |
+            output/snake.svg
+
+      - name: Commit & push snake.svg
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update snake"
+          add: "output/snake.svg"
