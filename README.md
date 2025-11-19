@@ -1,9 +1,8 @@
 # 👋 Olá, eu sou o Miguel!
 
-🎓 Aluno do **Instituto PROA** — estudando programação e tecnologia.  
-🎮 Gamer: curto **Peak**, **Roblox**, **Lethal Company** e jogos desafiadores/coop.  
-🎶 Produtor iniciante (boom bap) no **FL Studio**.  
-🥊 Curto boxe — rotina, repetição e evolução.
+ Aluno do **Instituto PROA** — estudando programação e tecnologia.  
+ Gamer: curto **Peak**, **Roblox**, **Lethal Company** e jogos desafiadores/coop.  
+ Produtor iniciante (boom bap e hyper pop) no **FL Studio**.  
 
 ---
 
