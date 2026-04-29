@@ -1,9 +1,6 @@
 # 👋 Olá, eu sou o Miguel!
 
- Ex - aluno do **Instituto PROA** — estudando programação e tecnologia.  
- Gamer: curto **Peak**, **Roblox**, **Lethal Company** e jogos desafiadores/coop.  
- Produtor iniciante (boom bap e hyper pop) no **FL Studio**.  
-
+ Ex - aluno do **Instituto PROA** e atualmente aluno da **Faculdade Flamingo** — estudando programação e tecnologia.  
 ---
 
 ## 🚀 Tecnologias & badges
