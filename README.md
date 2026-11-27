@@ -1,28 +1,34 @@
-# Olá, eu sou Miguel Oliveira
+# 👋 Olá, eu sou o Miguel!
 
-Estudante de **Análise e Desenvolvimento de Sistemas na Faculdade Flamingo** e formado pelo **Instituto PROA** em tecnologia. Busco uma oportunidade de **estágio em desenvolvimento de software**, com interesse em desenvolvimento web e aplicações com **C#/.NET**.
+ Ex - aluno do **Instituto PROA** e atualmente aluno da **Faculdade Flamingo** — estudando programação e tecnologia.  
+---
 
-Gosto de transformar ideias em projetos funcionais, aprender na prática e colaborar na construção de soluções.
+## 🚀 Tecnologias & badges
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Tecnologias
+</div>
 
-- **Front-end:** HTML, CSS, JavaScript e React
-- **Back-end:** C# e .NET
-- **Banco de dados:** SQL Server
-- **Ferramentas:** Git e GitHub
+---
 
-## Projetos
+## 🐍 Snake (contribuições)
+![Snake animation](output/snake.svg)
 
-- [API Pokémon](https://github.com/migueLLIDO/API-Pokemon)
-- [Rick and Morty API](https://github.com/migueLLIDO/RickAndMorty-API)
-- [Conversor de moedas](https://github.com/migueLLIDO/Conversor-Moedas)
-- [Deixe-me ir](https://github.com/migueLLIDO/Deixe-me_ir)
+---
 
-## Formação
+## 📊 GitHub stats
+<div align="center">
+  
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=migueLLIDO&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueLLIDO&layout=compact&theme=radical)
 
-- **Análise e Desenvolvimento de Sistemas** — Faculdade Flamingo (cursando)
-- **Formação em Tecnologia** — Instituto PROA
+</div>
 
-## GitHub
+---
 
-[@migueLLIDO](https://github.com/migueLLIDO)
+<p align="center"><b>“O mundo é lindo, são tantas coisas que eu nem sei o que quero ter”</b></p>
+
