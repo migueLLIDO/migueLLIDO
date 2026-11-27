@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Vice City night drive</title>
+<desc id="desc">A retro Miami skyline, palm trees, striped sunset, neon ocean and perspective road in pink, violet and cyan.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#100d2d"/>
+    <stop offset=".54" stop-color="#53204f"/>
+    <stop offset="1" stop-color="#f04f78"/>
+  </linearGradient>
+  <linearGradient id="sun" x1="0" y1="0" x2=".15" y2="1">
+    <stop stop-color="#fff2a8"/>
+    <stop offset=".42" stop-color="#ff9d73"/>
+    <stop offset="1" stop-color="#ff3e91"/>
+  </linearGradient>
+  <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+    <stop stop-color="#25204d"/>
+    <stop offset="1" stop-color="#090c21"/>
+  </linearGradient>
+  <linearGradient id="road" x1="0" y1="0" x2="0" y2="1">
+    <stop stop-color="#17142f"/>
+    <stop offset="1" stop-color="#080a18"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="360" fill="url(#sky)"/>
+<circle cx="600" cy="158" r="112" fill="url(#sun)" filter="url(#glow)"/>
+<g fill="#35163f" opacity=".78">
+  <rect x="0" y="204" width="1200" height="50"/>
+  <path d="M0 203V173h48v30h12v-48h42v48h15v-28h30v28h17v-70h54v70h13v-39h34v39h19v-62h48v62h25v-36h40v36h24v-78h58v78h20v-45h40v45h24v-64h50v64h25v-35h38v35h18v-84h56v84h25v-48h44v48h24v-66h45v66h18v-39h39v39h17v-57h49v57h18v-34h51v34h17v-70h52v70h15v-44h49v44h22v-60h47v60h20v-33h45v33h19v-52h43v52h20v-42h51v42h22v-67h49v67h19v-40h51v40h15v-54h42v54h21v-33h51v33h18v-76h55v76z"/>
+</g>
+<g fill="#ffb1d3" opacity=".52">
+  <path d="M36 186h7v9h-7zm20 0h7v9h-7zm57-4h6v8h-6zm61-20h7v9h-7zm18 0h7v9h-7zm49 38h7v8h-7zm35-16h7v8h-7zm76-12h7v8h-7zm17 0h7v8h-7zm85 25h7v8h-7zm51-28h7v8h-7zm19 0h7v8h-7zm72 20h7v8h-7zm28-27h7v8h-7zm64 18h7v8h-7zm53 8h7v8h-7zm80-31h7v8h-7zm21 0h7v8h-7zm72 27h7v8h-7zm71-15h7v8h-7zm39 0h7v8h-7zm64 21h7v8h-7zm54-30h7v8h-7zm60 22h7v8h-7z"/>
+</g>
+<g stroke="#ff7eb6" stroke-width="2" fill="none" opacity=".85">
+  <path d="M0 256h1200"/>
+  <path d="M0 270h1200" opacity=".6"/>
+  <path d="M0 286h1200" opacity=".4"/>
+</g>
+<path d="M0 252h1200v108H0z" fill="url(#water)"/>
+<g stroke="#16e0e8" stroke-width="2" opacity=".54">
+  <path d="M72 263h174m31 10h116m-336 7h82m438-17h177m104 13h103M32 286h148m245-4h108m318 7h149m-765 9h126m271-7h98m-388 21h160m200-11h134m-647 18h93m420-2h116"/>
+</g>
+<path d="M0 360 495 253h210L1200 360z" fill="url(#road)"/>
+<g stroke="#fa4cae" stroke-width="2" opacity=".75">
+  <path d="M600 253 600 360M565 253 490 360M635 253 710 360M530 253 380 360M670 253 820 360M495 253 270 360M705 253 930 360M460 253 160 360M740 253 1040 360M425 253 50 360M775 253 1150 360"/>
+  <path d="M0 278h1200M0 294h1200M0 313h1200M0 337h1200"/>
+</g>
+<g fill="none" stroke="#0cf0eb" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M88 252V109m0 12c-25-31-54-43-75-42m76 41c18-35 42-53 65-58m-65 60c-2-37-13-62-29-78m28 75c27-22 52-28 74-24"/>
+  <path d="M1111 252V104m0 14c-24-32-50-47-73-48m73 47c17-33 40-51 65-55m-65 57c-1-38-12-64-28-80m27 77c28-22 54-28 78-23"/>
+</g>
+<g fill="#0cf0eb" opacity=".8">
+  <path d="M84 111Q56 76 13 79q44 5 75 38m3-1q22-44 62-56-38 21-58 60m-2-2Q84 73 56 47q34 35 40 72m-1-1q39-32 73-24-35-1-69 33"/>
+  <path d="M1107 106q-26-39-69-36 44 6 72 42m3-3q21-45 60-54-37 19-57 58m-1-2q-8-47-36-73 34 34 42 74m-1-1q39-32 74-23-35-1-69 32"/>
+</g>
+<g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="900">
+  <text x="604" y="143" font-size="17" letter-spacing="11" fill="#0cf0eb">WELCOME TO</text>
+  <text x="600" y="202" font-size="59" letter-spacing="9" fill="#0cf0eb" opacity=".95">VICE CITY</text>
+  <text x="596" y="198" font-size="59" letter-spacing="9" fill="#ff348e" opacity=".92">VICE CITY</text>
+  <text x="600" y="198" font-size="59" letter-spacing="9" fill="#fff4e8">VICE CITY</text>
+  <text x="600" y="229" font-size="14" letter-spacing="7" fill="#fff">NEON NIGHTS · CODE DAYS</text>
+</g>
+<rect x="0" y="0" width="1200" height="360" fill="none" stroke="#ff4fa3" stroke-width="3"/>
+</svg>
