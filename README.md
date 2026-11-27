@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NlMjJ1ZzhlbnVnbDJoZzhyYXNydmE5eDlmODE5NGNydnhhZ3hjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q3ozRIFQqjLLC0YzUK/giphy.gif" width="100%" alt="Animação GTA VI com clima neon de Miami">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2NlMjJ1ZzhlbnVnbDJoZzhyYXNudmE5eDlmODE5NGNydnhhZ3hjcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q3ozRIFQqjLLC0YzUK/giphy.gif" width="100%" alt="Animação GTA VI com clima neon de Miami">
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lmNWI2dnhnMnc4anFtd3d3bnpkMG8zbmZtb3QyNnM2b2xyNGFhdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vdMWmADOjeDC7Op3Lg/giphy.gif" width="58%" alt="Tipografia neon GTA VI">
 
